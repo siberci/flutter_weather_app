@@ -1,0 +1,27 @@
+﻿# Flutter
+.dart_tool/
+.packages
+.pub/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.idea/
+.vscode/
+*.iml
+
+# Android/IntelliJ
+.gradle/
+local.properties
+android/.gradle/
+
+# iOS
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+
+# Mac / VSCode
+.DS_Store
+
+# Generated files
+pubspec.lock
